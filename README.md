@@ -1,6 +1,4 @@
-# Flutter YouTube API and Video Player Tutorial | Apps From Scratch
-
-[YouTube Tutorial](https://youtu.be/feQhHStBVLE)
+# Flutter YouTube API and Video Player app
 
 Remember to add your own YouTube API Key to `utilities/keys.dart`.
 
